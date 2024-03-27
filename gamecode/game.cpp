@@ -97,6 +97,7 @@ int attack(double playerStrength) {
 
 void startGame(){
     cout << "";
+    cout << "";
 
     room1();
 }
